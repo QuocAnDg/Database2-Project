@@ -3,7 +3,7 @@ A project developed as part of my studies at The University College, Léonard de
 
 
 ## technologies used:
-- java
+- Java
 - PostgresSQL
 
 
